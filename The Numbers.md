@@ -7,9 +7,10 @@ Yes, I can speak Thai.
 Step 1 Numbers to Letters Converter
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0153729-4319-4263-994e-bb3e6913e4a6" />
+
 ภาพที่ 1
 
-ข้อนี้จะมีไฟล์ที่ชื่อว่า "the_numbers" Type of file คือ PNG File (.png) ให้เรากดเปิดไฟล์ เราจะเจอข้อความที่ถูกเข้ารหัส ดังภาพที่ 1
+ข้อนี้จะมีไฟล์ที่ชื่อว่า "the_numbers" มาให้ Type of file คือ PNG File (.png) ให้เรากดเปิดไฟล์ เราจะเจอข้อความที่ถูกเข้ารหัส ดังภาพที่ 1
 
 ```
 https://www.boxentriq.com/code-breaking/numbers-to-letters
