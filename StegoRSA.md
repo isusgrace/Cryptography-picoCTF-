@@ -56,7 +56,7 @@ flag.enc                    100%[==========================================>]   
 ExifTool เป็นเครื่องมือที่ใช้อ่าน เขียน และแก้ไขข้อมูล Metadata ในส่วนของข้อนี้ เราจะใช้คำสั่ง exiftool อ่านข้อมูลที่ซ่อนอยู่ในไฟล์
 
 ```
-┌──(kali㉿kali)-[~/Downloads/mygit]
+┌──(kali㉿kali)-[~/isusgrace02]
 └─$ exiftool image.jpg                                    
 ExifTool Version Number         : 13.10
 File Name                       : image.jpg
@@ -121,7 +121,7 @@ rsautl: บอกให้ OpenSSL ใช้เครื่องมือสำ
 
 -in flag.enc: ระบุไฟล์ต้นทางที่ถูกเข้ารหัสไว้ ในที่นี้คือไฟล์ชื่อ flag.enc
 ```
-┌──(kali㉿kali)-[~/Downloads/mygit/challenge]
+┌──(kali㉿kali)-[~/isusgrace02]
 └─$ openssl rsautl -decrypt -inkey code02.pem -in flag.enc 
 The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
 picoCTF{XXXXX}
