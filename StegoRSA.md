@@ -84,6 +84,8 @@ Image Size                      : 512x512
 Megapixels                      : 0.262
 ```
 
+สังเกตตรง Comment มันถูกเข้ารหัสด้วย Hex อยู่
+
 # Step 3 ถอดรหัส
 
 <img width="1920" height="855" alt="StegRSA01" src="https://github.com/user-attachments/assets/efcb2641-df07-4b3a-9d34-504b61b076a4" />
