@@ -2,7 +2,7 @@ Hi, Can you speak Thai ?
 
 Yes, I can speak Thai.
 
-มา วันนี้เราจะมาทำข้อ StegoRSA หมวด Forensics
+มา วันนี้เราจะมาทำข้อ StegoRSA หมวด Cryptography
 
 # Step 1 สร้าง Directory
 
