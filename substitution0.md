@@ -1,0 +1,54 @@
+Hi, Can you speak Thai ?
+
+Yes, I can speak Thai.
+
+มา วันนี้เราจะมาทำข้อ substitution0 หมวด Cryptography
+
+# Step 1 เปิดไฟล์
+
+ข้อนี้จะมีไฟล์ .txt มาให้ ให้เราทำการเปิดไฟล์ที่ไหนก็ได้ อย่างของฉันเปิดใน Notepad
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f36b26c2-ba41-45b3-86b7-82bc3beb4be8" />
+
+ภาพที่ 1
+
+จะเห็นสิ่งที่อยู๋ในภาพ ดังภาพที่ 1
+
+```
+ZGSOCXPQUYHMILERVTBWNAFJDK 
+
+Qctcnrel Mcptzlo ztebc, fuwq z ptzac zlo bwzwcmd zut, zlo gtenpqw ic wqc gccwmc
+xtei z pmzbb szbc ul fqusq uw fzb clsmebco. Uw fzb z gcznwuxnm bsztzgzcnb, zlo, zw
+wqzw wuic, nlhlefl we lzwntzmubwb—ex sentbc z ptczw rtukc ul z bsuclwuxus reulw
+ex aucf. Wqctc fctc wfe tenlo gmzsh brewb lczt elc cjwtciuwd ex wqc gzsh, zlo z
+melp elc lczt wqc ewqct. Wqc bszmcb fctc cjsccoulpmd qzto zlo pmebbd, fuwq zmm wqc
+zrrcztzlsc ex gntlubqco pemo. Wqc fcupqw ex wqc ulbcsw fzb actd tcizthzgmc, zlo,
+wzhulp zmm wqulpb ulwe selbuoctzwuel, U senmo qztomd gmzic Ynruwct xet qub eruluel
+tcbrcswulp uw.
+
+Wqc xmzp ub: ruseSWX{5NG5717N710L_3A0MN710L_357GX9XX}
+```
+
+นี่คือข้อความที่ถูกเข้ารหัส
+
+# Step 2 quipquip 
+
+เปิดเว็บนี้
+
+```
+https://quipqiup.com/
+```
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ada2092-88bb-4ca2-8345-a7d202f92d0f" />
+
+ภาพที่ 2
+
+เอาข้อความที่ถูกเข้ารหัสใส่ลงในช่อง Puzzle จากนั้นกด Solve
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edaaf9f9-f442-4a16-9942-0d24fcbfd733" />
+
+ภาพที่ 3
+
+จะได้ผลลัพธ์ดังภาพที่ 3 Flag ออกแล้ว
+
+### อธิบาย
