@@ -12,7 +12,7 @@ Yes, I can speak Thai.
 
 ภาพที่ 1
 
-จะเห็นสิ่งที่อยู่ในภาพ ดังภาพที่ 1
+จะเห็นสิ่งที่อยู่ในไฟล์ ดังภาพที่ 1
 
 ```
 ZGSOCXPQUYHMILERVTBWNAFJDK 
