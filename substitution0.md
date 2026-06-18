@@ -57,6 +57,8 @@ quipquip คือ เครื่องที่ช่วยถอดรหั�
 
 หลักการของ Simple Substitution Cipher คือ ...
 
-คำใบ้ข้อนี้อยู่ตรง ZGSOCXPQUYHMILERVTBWNAFJDK 
+คำใบ้ข้อนี้อยู่ตรง ZGSOCXPQUYHMILERVTBWNAFJDK มาเทียบกับตัวอักษร A-Z แบบเรียงกัน
 
-มีต่อ
+```
+Z=A G=B S=C O=D C=E X=F P=G Q=H U=I Y=J H=K M=L I=M L=N E=O R=P V=Q T=R B=S W=T N=U A= F= J= D= K= 
+```
